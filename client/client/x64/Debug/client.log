@@ -1,0 +1,5 @@
+﻿  client.cpp
+C:\Users\HP\Desktop\client\client.cpp(69,30): warning C4244: 'argument' : conversion de 'SOCKET' en 'int', perte possible de données
+  client.vcxproj -> C:\Users\HP\Desktop\client\x64\Debug\client.exe
+  'pwsh.exe' n'est pas reconnu en tant que commande interne
+  ou externe, un programme exécutable ou un fichier de commandes.

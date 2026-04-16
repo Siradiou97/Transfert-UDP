@@ -1,0 +1,3 @@
+# Format: identite=secret,permissions
+# Permissions disponibles: put, get, all
+Client1=0123456789abcdef,put,get

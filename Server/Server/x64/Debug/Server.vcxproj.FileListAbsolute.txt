@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\Server\x64\Debug\libcrypto-3-x64.dll
+C:\Users\HP\Desktop\Server\x64\Debug\libssl-3-x64.dll
+C:\Users\HP\Desktop\Server\Server\x64\Debug\Server.vcxproj.Up2Date
+C:\Users\HP\Desktop\Transfert UDP\Server\x64\Debug\libssl-3-x64.dll
+C:\Users\HP\Desktop\Transfert UDP\Server\x64\Debug\libcrypto-3-x64.dll
+C:\Users\HP\Desktop\Transfert UDP\Server\Server\x64\Debug\Server.vcxproj.Up2Date
+C:\Users\HP\Desktop\transfertudp\Server\x64\Debug\libssl-3-x64.dll
+C:\Users\HP\Desktop\transfertudp\Server\x64\Debug\libcrypto-3-x64.dll
+C:\Users\HP\Desktop\transfertudp\Server\Server\x64\Debug\Server.vcxproj.Up2Date

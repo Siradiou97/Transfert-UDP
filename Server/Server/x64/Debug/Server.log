@@ -1,0 +1,5 @@
+﻿  Server.cpp
+C:\Users\HP\Desktop\Server\Server.cpp(80,30): warning C4244: 'argument' : conversion de 'SOCKET' en 'int', perte possible de données
+  Server.vcxproj -> C:\Users\HP\Desktop\Server\x64\Debug\Server.exe
+  'pwsh.exe' n'est pas reconnu en tant que commande interne
+  ou externe, un programme exécutable ou un fichier de commandes.

@@ -1,0 +1,4 @@
+# Identite et secret PSK du client.
+# Le meme secret doit exister cote serveur dans psk_clients.txt.
+identity=Client1
+key=0123456789abcdef
